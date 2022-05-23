@@ -1,6 +1,6 @@
 package com.example.projectbase.framework.di
 
-import com.example.core.data.network.interceptor.AuthorizationInterceptor
+import com.example.projectbase.framework.network.interceptor.AuthorizationInterceptor
 import com.example.projectbase.BuildConfig
 import dagger.Module
 import dagger.Provides
